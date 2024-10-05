@@ -3,7 +3,7 @@ const ExpenseData = [
         id: crypto.randomUUID(),
         title: 'Milk',
         category: 'Grocery',
-        amount: '40'
+        amount: '60'
     },
     {
         id: crypto.randomUUID(),

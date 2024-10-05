@@ -1,0 +1,11 @@
+.contextmenu{
+ background-color: #b5cbde;
+z-index: 5;
+position: absolute;
+}
+
+.bod{
+    padding: 7px;
+    border: 1px solid rgb(9, 13, 14);  cursor: pointer;
+}
+
